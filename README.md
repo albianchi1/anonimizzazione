@@ -1,0 +1,2 @@
+# anonimizzazione
+esercizio anonimizzazione
